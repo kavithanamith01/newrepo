@@ -9,3 +9,7 @@ welcome to reset class
 }
 {
 hi guys..!
+}
+{
+git branching strategy
+} 
